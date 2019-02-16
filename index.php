@@ -21,6 +21,7 @@
                     <p class="lead">Esto es una pagina para hablar de dos lenguajes de programacion</p>
                 </div>
             </div>
+            <?php require_once "index.inc" ?>
         <?php require_once "footer.inc" ?>
     </div>
 </body>
